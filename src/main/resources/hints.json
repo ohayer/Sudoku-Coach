@@ -1,0 +1,273 @@
+[
+  {
+    "title": "Iloczyn tożsamościowy",
+    "text": "Każda liczba pomnożona przez tą liczbę daje tę samą liczbę.",
+    "type": "math",
+    "number": 1
+  },
+  {
+    "title": "Liczba atomowa wodoru",
+    "text": "Wodór ma liczbę atomową równą ...?.",
+    "type": "chemistry",
+    "number": 1
+  },
+  {
+    "title": "Liczba naturalna",
+    "text": "Jaka liczba jest najmniejszą liczbą naturalną większą od zera.",
+    "type": "math",
+    "number": 1
+  },
+  {
+    "title": "Jedyny dzielnik",
+    "text": "Jaka liczba jest jedynym dzielnikiem samego siebie.",
+    "type": "math",
+    "number": 1
+  },
+  {
+    "title": "System binarny",
+    "text": "W systemie binarnym jaka liczba oznacza wartość prawdy (true).",
+    "type": "computer-science",
+    "number": 1
+  },
+
+  {
+    "title": "Zasada wodoru",
+    "text": "W cząsteczce wody każdy atom tlenu łączy się z jaką liczbą atomami wodoru.",
+    "type": "chemistry",
+    "number": 2
+  },
+  {
+    "title": "Pierwsza parzysta liczba",
+    "text": "jaka liczba jest jedyną parzystą liczbą pierwszą.",
+    "type": "math",
+    "number": 2
+  },
+  {
+    "title": "Hel atom",
+    "text": "Hel jest pierwiastkiem o liczbie atomowej równej?",
+    "type": "chemistry",
+    "number": 2
+  },
+  {
+    "title": "Liczba wymiaru",
+    "text": "Linia prosta ma wymiar równy?",
+    "type": "math",
+    "number": 2
+  },
+  {
+    "title": "Podstawa układu dwuosobowego",
+    "text": "Para oznacza zawsze ile osób?",
+    "type": "everyday",
+    "number": 2
+  },
+
+  {
+    "title": "Pierwiastki",
+    "text": "Pierwiastek kwadratowy z 9 to ?",
+    "type": "math",
+    "number": 3
+  },
+  {
+    "title": "Trzecia pozycja naturalna",
+    "text": "Która liczba jest trzecią liczbą w porządku naturalnym?",
+    "type": "math",
+    "number": 3
+  },
+  {
+    "title": "Trójkąt",
+    "text": "Każdy trójkąt w geometrii euklidesowej ma dokładnie ile boków?",
+    "type": "geometry",
+    "number": 3
+  },
+  {
+    "title": "liczba pierwsza",
+    "text": "Jaka liczba jest drugą liczbą pierwszą?",
+    "type": "math",
+    "number": 3
+  },
+  {
+    "title": "Planety",
+    "text": "Która planetą od Słońca jest Ziemia?",
+    "type": "astronomy",
+    "number": 3
+  },
+
+  {
+    "title": "Sumowanie wiersza",
+    "text": "Suma liczb w każdym wierszu sudoku to 45. Użyj tej informacji, by znaleźć brakującą liczbę.",
+    "type": "math",
+    "number": 4
+  },
+  {
+    "title": "Dodawanie",
+    "text": "Podstawowe dodawanie: 2 plus 2 równa się ?",
+    "type": "math",
+    "number": 4
+  },
+  {
+    "title": "Liczba atomowa berylu",
+    "text": "Beryl ma liczbę atomową = ?",
+    "type": "chemistry",
+    "number": 4
+  },
+  {
+    "title": "kwadrat",
+    "text": "Każdy kwadrat ma ... boki i ... kąty proste.",
+    "type": "geometry",
+    "number": 4
+  },
+  {
+    "title": "Pory roku",
+    "text": "Na Ziemi wyróżniamy ... pory roku.",
+    "type": "nature",
+    "number": 4
+  },
+
+  {
+    "title": "Litera alfabetu",
+    "text": "Która z kolei literą alfabetu łacińskiego jest E?",
+    "type": "language",
+    "number": 5
+  },
+  {
+    "title": "Dłonie",
+    "text": "Na każdej ludzkiej dłoni jest ... palców.",
+    "type": "biology",
+    "number": 5
+  },
+  {
+    "title": "Piątek — dzień tygodnia",
+    "text": "W standardowym kalendarzu piątek jest ... dniem tygodnia.",
+    "type": "calendar",
+    "number": 5
+  },
+  {
+    "title": "liczba pierwsza",
+    "text": "... jest trzecią liczbą pierwszą.",
+    "type": "math",
+    "number": 5
+  },
+  {
+    "title": "Pięciokąt",
+    "text": "W geometrii pięciokąt ma ... boków.",
+    "type": "geometry",
+    "number": 5
+  },
+
+  {
+    "title": "Liczba doskonała",
+    "text": "Liczba ta jest liczbą doskonałą: 1 + 2 + 3 = ...",
+    "type": "math",
+    "number": 6
+  },
+  {
+    "title": "Sześciokąt",
+    "text": "W geometrii sześciokąt ma ... boków.",
+    "type": "geometry",
+    "number": 6
+  },
+  {
+    "title": "kostka",
+    "text": "Kostka do gry ma ... ścianek.",
+    "type": "everyday",
+    "number": 6
+  },
+  {
+    "title": "Węgiel",
+    "text": "Węgiel jest pierwiastkiem o liczbie atomowej ...",
+    "type": "chemistry",
+    "number": 6
+  },
+  {
+    "title": "Kontynenty",
+    "text": "Zwyczajowo wyróżnia się ... kontynentów.",
+    "type": "geography",
+    "number": 6
+  },
+
+  {
+    "title": "dni w tygodniu",
+    "text": "Tydzień kalendarzowy składa się z ... dni.",
+    "type": "calendar",
+    "number": 7
+  },
+  {
+    "title": "kolory tęczy",
+    "text": "Spektrum tęczy składa się z ... kolorów.",
+    "type": "nature",
+    "number": 7
+  },
+  {
+    "title": "Azot",
+    "text": "Azot jest pierwiastkiem o liczbie atomowej ...",
+    "type": "chemistry",
+    "number": 7
+  },
+  {
+    "title": "... cudów świata",
+    "text": "W starożytności wyróżniano ... cudów świata.",
+    "type": "history",
+    "number": 7
+  },
+  {
+    "title": "Ile bitów w bajcie",
+    "text": "W informatyce jeden bajt składa się z ... bitów.",
+    "type": "computer-science",
+    "number": 8
+  },
+  {
+    "title": "Ośmiornica",
+    "text": "Ośmiornice posiadają ... ramion.",
+    "type": "biology",
+    "number": 8
+  },
+  {
+    "title": "Tlen",
+    "text": "Tlen jest pierwiastkiem o liczbie atomowej ...",
+    "type": "chemistry",
+    "number": 8
+  },
+  {
+    "title": "planety Układu Słonecznego",
+    "text": "Obecnie uznaje się ... planet w Układzie Słonecznym.",
+    "type": "astronomy",
+    "number": 8
+  },
+  {
+    "title": "Ośmiokąt",
+    "text": "W geometrii ośmiokąt ma ... boków.",
+    "type": "geometry",
+    "number": 8
+  },
+
+  {
+    "title": "kwadrat 3",
+    "text": "Jaka liczba jest kwadratem liczby 3?",
+    "type": "math",
+    "number": 9
+  },
+  {
+    "title": "Najwyższa cyfra w systemie dziesiętnym",
+    "text": "Jaka liczba jest największą pojedynczą cyfrą w systemie dziesiętnym?",
+    "type": "math",
+    "number": 9
+  },
+  {
+    "title": "Długość ciąży",
+    "text": "Ciąża u człowieka trwa około ... miesięcy.",
+    "type": "biology",
+    "number": 9
+  },
+  {
+    "title": "poziomy piekieł",
+    "text": "W „Boskiej komedii” Dantego opisano ... kręgów piekła.",
+    "type": "literature",
+    "number": 9
+  },
+  {
+    "title": "Klasyczny Układ Słoneczny",
+    "text": "W tradycyjnym modelu Układu Słonecznego było ... planet (z Plutonem).",
+    "type": "astronomy",
+    "number": 9
+  }
+]
